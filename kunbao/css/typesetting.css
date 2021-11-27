@@ -42,7 +42,8 @@ body{
 	border-bottom: 4px double #FEC804;
 }
 .kunbao{
-	position:relative;
+	position:fixed;
+	top: 20px;
 	left:87vw;
 	width:7.4%;
 	height:auto; 
